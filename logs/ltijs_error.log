@@ -1,0 +1,212 @@
+{
+  level: 'error',
+  message: 'Message: No url provided\n' +
+    'Stack: Error: No url provided\n' +
+    '    at Provider.getPlatform (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:796:21)\n' +
+    '    at C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:469:37\n' +
+    '    at Layer.handle [as handle_request] (C:\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:137:13)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at Route.dispatch (C:\\node_modules\\express\\lib\\router\\route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (C:\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at C:\\node_modules\\express\\lib\\router\\index.js:281:22\n' +
+    '    at Function.process_params (C:\\node_modules\\express\\lib\\router\\index.js:335:12)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\index.js:275:10)\n' +
+    '    at sessionValidator (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:278:309)',
+  timestamp: '2020-06-24T18:31:51.417Z'
+}
+{
+  level: 'error',
+  message: 'Message: No url provided\n' +
+    'Stack: Error: No url provided\n' +
+    '    at Provider.getPlatform (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:796:21)\n' +
+    '    at C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:469:37\n' +
+    '    at Layer.handle [as handle_request] (C:\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:137:13)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at Route.dispatch (C:\\node_modules\\express\\lib\\router\\route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (C:\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at C:\\node_modules\\express\\lib\\router\\index.js:281:22\n' +
+    '    at Function.process_params (C:\\node_modules\\express\\lib\\router\\index.js:335:12)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\index.js:275:10)\n' +
+    '    at sessionValidator (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:278:309)',
+  timestamp: '2020-06-24T18:34:06.092Z'
+}
+{
+  level: 'error',
+  message: 'Message: No url provided\n' +
+    'Stack: Error: No url provided\n' +
+    '    at Provider.getPlatform (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:796:21)\n' +
+    '    at C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:469:37\n' +
+    '    at Layer.handle [as handle_request] (C:\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:137:13)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at Route.dispatch (C:\\node_modules\\express\\lib\\router\\route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (C:\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at C:\\node_modules\\express\\lib\\router\\index.js:281:22\n' +
+    '    at Function.process_params (C:\\node_modules\\express\\lib\\router\\index.js:335:12)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\index.js:275:10)\n' +
+    '    at sessionValidator (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:278:309)',
+  timestamp: '2020-06-24T18:34:07.609Z'
+}
+{
+  level: 'error',
+  message: 'Message: No url provided\n' +
+    'Stack: Error: No url provided\n' +
+    '    at Provider.getPlatform (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:796:21)\n' +
+    '    at C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:469:37\n' +
+    '    at Layer.handle [as handle_request] (C:\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:137:13)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at Route.dispatch (C:\\node_modules\\express\\lib\\router\\route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (C:\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at C:\\node_modules\\express\\lib\\router\\index.js:281:22\n' +
+    '    at Function.process_params (C:\\node_modules\\express\\lib\\router\\index.js:335:12)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\index.js:275:10)\n' +
+    '    at sessionValidator (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:278:309)',
+  timestamp: '2020-06-24T18:36:25.121Z'
+}
+{
+  level: 'error',
+  message: 'Message: No url provided\n' +
+    'Stack: Error: No url provided\n' +
+    '    at Provider.getPlatform (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:796:21)\n' +
+    '    at C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:469:37\n' +
+    '    at Layer.handle [as handle_request] (C:\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:137:13)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at Route.dispatch (C:\\node_modules\\express\\lib\\router\\route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (C:\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at C:\\node_modules\\express\\lib\\router\\index.js:281:22\n' +
+    '    at Function.process_params (C:\\node_modules\\express\\lib\\router\\index.js:335:12)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\index.js:275:10)\n' +
+    '    at sessionValidator (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:278:309)',
+  timestamp: '2020-06-24T18:38:50.947Z'
+}
+{
+  level: 'error',
+  message: 'Message: No url provided\n' +
+    'Stack: Error: No url provided\n' +
+    '    at Provider.getPlatform (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:796:21)\n' +
+    '    at C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:469:37\n' +
+    '    at Layer.handle [as handle_request] (C:\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:137:13)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at Route.dispatch (C:\\node_modules\\express\\lib\\router\\route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (C:\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at C:\\node_modules\\express\\lib\\router\\index.js:281:22\n' +
+    '    at Function.process_params (C:\\node_modules\\express\\lib\\router\\index.js:335:12)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\index.js:275:10)\n' +
+    '    at sessionValidator (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:278:309)',
+  timestamp: '2020-06-24T18:46:26.948Z'
+}
+{
+  level: 'error',
+  message: 'Message: No url provided\n' +
+    'Stack: Error: No url provided\n' +
+    '    at Provider.getPlatform (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:796:21)\n' +
+    '    at C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:469:37\n' +
+    '    at Layer.handle [as handle_request] (C:\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:137:13)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at Route.dispatch (C:\\node_modules\\express\\lib\\router\\route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (C:\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at C:\\node_modules\\express\\lib\\router\\index.js:281:22\n' +
+    '    at Function.process_params (C:\\node_modules\\express\\lib\\router\\index.js:335:12)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\index.js:275:10)\n' +
+    '    at sessionValidator (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:278:309)',
+  timestamp: '2020-06-24T18:46:51.621Z'
+}
+{
+  level: 'error',
+  message: 'Message: error:06065064:digital envelope routines:EVP_DecryptFinal_ex:bad decrypt\n' +
+    'Stack: Error: error:06065064:digital envelope routines:EVP_DecryptFinal_ex:bad decrypt\n' +
+    '    at Decipheriv.final (internal/crypto/cipher.js:172:29)\n' +
+    '    at Database.Decrypt (C:\\node_modules\\ltijs\\dist\\Utils\\Database.js:328:52)\n' +
+    '    at Database.Get (C:\\node_modules\\ltijs\\dist\\Utils\\Database.js:214:44)\n' +
+    '    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n' +
+    '    at async Function.build (C:\\node_modules\\ltijs\\dist\\Utils\\Keyset.js:14:20)\n' +
+    '    at async Provider.value (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:173:26)',
+  timestamp: '2020-06-24T18:55:16.724Z'
+}
+{
+  level: 'error',
+  message: 'Message: error:06065064:digital envelope routines:EVP_DecryptFinal_ex:bad decrypt\n' +
+    'Stack: Error: error:06065064:digital envelope routines:EVP_DecryptFinal_ex:bad decrypt\n' +
+    '    at Decipheriv.final (internal/crypto/cipher.js:172:29)\n' +
+    '    at Database.Decrypt (C:\\node_modules\\ltijs\\dist\\Utils\\Database.js:328:52)\n' +
+    '    at Database.Get (C:\\node_modules\\ltijs\\dist\\Utils\\Database.js:214:44)\n' +
+    '    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n' +
+    '    at async Function.build (C:\\node_modules\\ltijs\\dist\\Utils\\Keyset.js:14:20)\n' +
+    '    at async Provider.value (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:173:26)',
+  timestamp: '2020-06-24T18:55:53.001Z'
+}
+{
+  level: 'error',
+  message: 'Message: error:06065064:digital envelope routines:EVP_DecryptFinal_ex:bad decrypt\n' +
+    'Stack: Error: error:06065064:digital envelope routines:EVP_DecryptFinal_ex:bad decrypt\n' +
+    '    at Decipheriv.final (internal/crypto/cipher.js:172:29)\n' +
+    '    at Database.Decrypt (C:\\node_modules\\ltijs\\dist\\Utils\\Database.js:328:52)\n' +
+    '    at Database.Get (C:\\node_modules\\ltijs\\dist\\Utils\\Database.js:214:44)\n' +
+    '    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n' +
+    '    at async Function.build (C:\\node_modules\\ltijs\\dist\\Utils\\Keyset.js:14:20)\n' +
+    '    at async Provider.value (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:173:26)',
+  timestamp: '2020-06-24T19:05:46.250Z'
+}
+{
+  level: 'error',
+  message: 'Message: No url provided\n' +
+    'Stack: Error: No url provided\n' +
+    '    at Provider.getPlatform (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:796:21)\n' +
+    '    at C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:469:37\n' +
+    '    at Layer.handle [as handle_request] (C:\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:137:13)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\route.js:131:14)\n' +
+    '    at Route.dispatch (C:\\node_modules\\express\\lib\\router\\route.js:112:3)\n' +
+    '    at Layer.handle [as handle_request] (C:\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at C:\\node_modules\\express\\lib\\router\\index.js:281:22\n' +
+    '    at Function.process_params (C:\\node_modules\\express\\lib\\router\\index.js:335:12)\n' +
+    '    at next (C:\\node_modules\\express\\lib\\router\\index.js:275:10)\n' +
+    '    at sessionValidator (C:\\node_modules\\ltijs\\dist\\Provider\\Provider.js:278:309)',
+  timestamp: '2020-06-24T19:09:37.488Z'
+}
